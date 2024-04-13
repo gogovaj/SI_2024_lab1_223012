@@ -1,0 +1,36 @@
+commit b747a4fde0a2a46bac60c350b96acd888ede9099 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: gogovaj <jana.gogova@students.finki.ukim.mk>
+Date:   Sat Apr 13 15:46:31 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 1db3038421cf0ea0c4840da968bc12aeb23811dc
+Author: gogovaj <jana.gogova@students.finki.ukim.mk>
+Date:   Sat Apr 13 15:37:38 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 717cc4b2568ea2ecb8157a06a4b0ccdb2092e625 (origin/bug1, bug1)
+Author: gogovaj <jana.gogova@students.finki.ukim.mk>
+Date:   Sat Apr 13 15:42:48 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 393fbcd32f648fb6b9cd8668d7211b9c50e99a4c
+Author: gogovaj <jana.gogova@students.finki.ukim.mk>
+Date:   Sat Apr 13 15:33:30 2024 +0200
+
+     Fix wrong condition in makeBigStringFrom
+
+commit 1bc7a0a97344eee5cda8da4adf02a5cb81529274
+Author: gogovaj <jana.gogova@students.finki.ukim.mk>
+Date:   Sat Apr 13 15:27:40 2024 +0200
+
+    Add starter code
+
+commit f3283d5ae8b46fbf96cabdb203eb2fe156d91ad4
+Author: gogovaj <jana.gogova@students.finki.ukim.mk>
+Date:   Sat Apr 13 15:24:23 2024 +0200
+
+    Initial commit
+(END)
